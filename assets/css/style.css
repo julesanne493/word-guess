@@ -1,0 +1,36 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 50%;
+}
+
+body {
+    background-image: url(../images/background.png);
+    text-align: center;
+    color: skyblue;
+}
+
+h1{
+    font-size: 50px;
+    font-family: 'Berkshire Swash', cursive;
+    color: #F15D5D;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 25px;
+}
+
+h1, h2, p {
+    margin: 15px;
+}
+
+h2, p {
+    font-family: 'Poiret One', cursive;
+    font-weight: bold;
+}
